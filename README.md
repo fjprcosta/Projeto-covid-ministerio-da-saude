@@ -1,4 +1,4 @@
-# Projeto-Final-Soulcode-tema-saude
+# Projeto-covid-ministerio-da-saude
 Projeto desenvolvido para artigo médico com relatos das mortes entre 2017 e 2020
 
 # Equipe do projeto:
