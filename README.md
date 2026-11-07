@@ -3,9 +3,6 @@ Projeto desenvolvido para artigo médico com relatos das mortes entre 2017 e 202
 
 # Equipe do projeto:
 * Felipe Rodrigues Costa
-* Lucas
-* Tiago
-* Jefferson
 
 # 🖥️ Tecnologias utilizadas para realização do projeto:
 * Google Cloud Platform (CGP)
